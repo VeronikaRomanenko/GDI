@@ -1,0 +1,9 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI\GDI\GDI\bin\Debug\GDI.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI\GDI\GDI\bin\Debug\GDI.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI\GDI\GDI\bin\Debug\GDI.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI\GDI\GDI\obj\Debug\GDI.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI\GDI\GDI\obj\Debug\GDI.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI\GDI\GDI\obj\Debug\GDI.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI\GDI\GDI\obj\Debug\GDI.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI\GDI\GDI\obj\Debug\GDI.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI\GDI\GDI\obj\Debug\GDI.Form1.resources
